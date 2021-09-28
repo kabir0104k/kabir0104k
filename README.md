@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.wallpaperup.com/678635/Hacker_hacking_hack_anarchy_virus_internet_computer_sadic_Anonymous_dark_code_binary.html" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Kabir</h1>
  Connect With Me:
 <p align="left">
@@ -13,3 +13,13 @@
  <a href="https://github.com/kabir0104k?tab=followers"><img src="https://img.shields.io/github/followers/kabir0104k?label=Followers&style=social" alt="GitHub Badge"></a>
 </a>
 
+
+
+
+
+<a href="https://github.com/kabir0104k/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/kabir0104k/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/kabir0104k/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/kabir0104k/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/kabir0104k/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/kabir0104k/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/kabir0104k/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kabir0104k/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/kabir0104k/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/kabir0104k/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
