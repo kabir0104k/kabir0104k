@@ -7,6 +7,8 @@
 
 ## Views and Followers
 <a href="https://github.com/kabir0104k/github-profile-views-counter">
- 
-
+ <img src="https://komarev.com/ghpvc/?username=kabir0104k">
+ </a>
+ <a href="https://github.com/kabir0104k?tab=followers"><img src="https://img.shields.io/github/followers/kabir0104k?label=Followers&style=social" alt="GitHub Badge"></a>
+</a>
 
