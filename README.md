@@ -3,11 +3,10 @@
 <p align="left">
 <a href = "https://www.instagram.com/ethanhunt0704/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  <a href = "https://twitter.com/hunt6289"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+ <a href = "https://discord.com/channels/@KABIR#4503"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 
 ## Views and Followers
 <a href="https://github.com/kabir0104k/github-profile-views-counter">
  
-<a href="https://komarev.com/ghpvc/?username=kabir0104k&color=brightgreen">
 
 
