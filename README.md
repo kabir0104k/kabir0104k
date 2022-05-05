@@ -34,8 +34,8 @@
 <p align="left">
 <a href = "https://www.instagram.com/ranjankumar0704/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  <a href = "https://twitter.com/ranjankumar6289"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
- <a href = "https://discord.com/channels/@KABIR#4503"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>
- 
+ <a href = "https://discord.com/channels/@KABIR#4503"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
+ <a href = "https://www.linkedin.com/in/ranjan-kumar-0b0230214/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
  </a>
  
  <a href="https://github.com/kabir0104k/github-profile-views-counter">
