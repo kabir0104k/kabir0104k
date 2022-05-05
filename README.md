@@ -26,11 +26,9 @@
 
 
 
-- 📫 How to reach me **hunt6289@gmail.com**
-
 
  
- Connect With Me:
+ Connect With Me
 <p align="left">
 <a href = "https://www.instagram.com/ranjankumar0704/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  <a href = "https://twitter.com/ranjankumar6289"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
