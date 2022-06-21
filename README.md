@@ -39,14 +39,8 @@
  <a href = "https://voice.google.com/u/0/calls"><img src="https://img.icons8.com/fluency/48/000000/voicemail.png"/>
  </a>
  
- <a href="https://github.com/kabir0104k/github-profile-views-counter">
- </a>
  
-  <a> <img src="https://komarev.com/ghpvc/?username=kabir0104k">
- </a>
- <a href="https://github.com/kabir0104k?tab=followers"><img src="https://img.shields.io/github/followers/kabir0104k?label=Followers&style=social" alt="GitHub Badge"></a>
-</a>
-
+ 
 </p>
 
 
@@ -56,6 +50,9 @@
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/kabir0104k/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kabir0104k/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/kabir0104k/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
 ## Buy Me A Coffee 
 <a href="https://www.buymeacoffee.com/kabir0704" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
