@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">I'm Kabir</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">👨🏻‍💻 Ranjan 👨🏻‍💻</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=Certified+Ethical+Hacker;I'm+A+Programmer;Certified+Cyber+Warrior)](https://git.io/typing-svg)
 
