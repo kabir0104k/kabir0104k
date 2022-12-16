@@ -31,16 +31,7 @@
 
 
  
- Connect With Me
-<p align="left">
-<a href = "https://www.instagram.com/ranjankumar0704/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
- <a href = "https://twitter.com/ranjankumar6289"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
- <a href = "https://discord.com/channels/@KABIR#4503"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
- <a href = "https://www.linkedin.com/in/ranjan-kumar-0b0230214/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
- <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
- <a href = "https://www.facebook.com/profile.php?id=100064315583959"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
- <a href = "https://voice.google.com/u/0/calls"><img src="https://img.icons8.com/fluency/48/000000/voicemail.png"/>
- </a>
+
  
  
  
