@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 <br>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">RANJAN</h1>
+<h1 align="center"> RANJAN</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=Certified+Ethical+Hacker;Professional+Penetration+Tester;Red+Teaming;)](https://git.io/typing-svg)
 
@@ -19,9 +19,8 @@
  
 
 - 👨‍💻 All Of My Projects Are Available At **[My Projects](https://github.com/kabir0104k?tab=repositories)**
-- ♕ I’m Currently Studying API Pentesting
-- 
-
+- ♕ I’m Currently Studying API Pentesting </br>
+- Talks About Vapt, AWSCloud, APITesting, RedTeaming, And CloudComputing
 
 
 ## My Skills 🚀
@@ -31,28 +30,28 @@
 
 # Certifications
 
-[(ISC)²](https://www.credly.com/badges/51593902-114b-450f-bcba-2d22921d5eb7)</br>
-[CEH V12](https://certsgithub.s3.amazonaws.com/Achievment/CEH+V12.pdf)</br>
-[CCNA](https://certsgithub.s3.amazonaws.com/Achievment/Cisco+CCNA+Security_Certificate+of+Achievement.pdf)</br>
-[Dante](https://certsgithub.s3.amazonaws.com/Achievment/Dante-certificate.pdf)</br>
-[eCPPTV2](https://certsgithub.s3.amazonaws.com/Achievment/eCPPTV2.pdf)</br>
-[eJPT](https://certsgithub.s3.amazonaws.com/Achievment/eJPT.pdf)</br>
-[Forage](https://certsgithub.s3.amazonaws.com/Achievment/Forage.pdf)</br>
-[PenTesting](https://certsgithub.s3.amazonaws.com/Achievment/Pen+Testing_Certificate+of+Achievement.pdf)</br>
-[Advent Of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UTNOERKM3F.png)</br>
-[Advent Of Cyber 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RWPPM07YN3.png)</br>
-[ECC-Evaluation-Certificate](https://certsgithub.s3.amazonaws.com/Achievment/ECC-Evaluation-Certificate.pdf)</br>
-[Certified Cyber Warrior](https://certsgithub.s3.amazonaws.com/Achievment/CERTIFIED+CYBER+WARRIOR.pdf)</br>
-[Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WYIRIJQMQB.png)</br>
-[Responsible Red Teaming](https://certsgithub.s3.amazonaws.com/Achievment/certificate-of-completion-for-responsible-red-teaming.pdf)</br>
-[Ethical Hacking Essentials](https://certsgithub.s3.amazonaws.com/Achievment/EHE.pdf)</br>
-[Introduction To IT & Cybersecurity](https://certsgithub.s3.amazonaws.com/Achievment/cybrary-cert-introduction-to-it-and-cybersecurity.pdf)</br>
+- [(ISC)²](https://www.credly.com/badges/51593902-114b-450f-bcba-2d22921d5eb7)</br>
+- [CEH V12](https://certsgithub.s3.amazonaws.com/Achievment/CEH+V12.pdf)</br>
+- [CCNA](https://certsgithub.s3.amazonaws.com/Achievment/Cisco+CCNA+Security_Certificate+of+Achievement.pdf)</br>
+- [Dante](https://certsgithub.s3.amazonaws.com/Achievment/Dante-certificate.pdf)</br>
+- [eCPPTV2](https://certsgithub.s3.amazonaws.com/Achievment/eCPPTV2.pdf)</br>
+- [eJPT](https://certsgithub.s3.amazonaws.com/Achievment/eJPT.pdf)</br>
+- [Forage](https://certsgithub.s3.amazonaws.com/Achievment/Forage.pdf)</br>
+- [PenTesting](https://certsgithub.s3.amazonaws.com/Achievment/Pen+Testing_Certificate+of+Achievement.pdf)</br>
+- [Advent Of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UTNOERKM3F.png)</br>
+- [Advent Of Cyber 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RWPPM07YN3.png)</br>
+- [ECC-Evaluation-Certificate](https://certsgithub.s3.amazonaws.com/Achievment/ECC-Evaluation-Certificate.pdf)</br>
+- [Certified Cyber Warrior](https://certsgithub.s3.amazonaws.com/Achievment/CERTIFIED+CYBER+WARRIOR.pdf)</br>
+- [Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WYIRIJQMQB.png)</br>
+- [Responsible Red Teaming](https://certsgithub.s3.amazonaws.com/Achievment/certificate-of-completion-for-responsible-red-teaming.pdf)</br>
+- [Ethical Hacking Essentials](https://certsgithub.s3.amazonaws.com/Achievment/EHE.pdf)</br>
+- [Introduction To IT & Cybersecurity](https://certsgithub.s3.amazonaws.com/Achievment/cybrary-cert-introduction-to-it-and-cybersecurity.pdf)</br>
 
 --------
 
 # Achievement
 
-I Wrote And Published A Book Titled [AWS Cloud Computing](https://www.amazon.in/AWS-Cloud-Computing-Ranjan-Kumar-ebook/dp/B0CBTCKSKR/ref=sr_1_5?keywords=aws+cloud+computing&qid=1690436456&sprefix=AWS+clo%2Caps%2C327&sr=8-5) On [Amazon](https://www.amazon.in/AWS-Cloud-Computing-Ranjan-Kumar-ebook/dp/B0CBTCKSKR/ref=sr_1_5?keywords=aws+cloud+computing&qid=1690436456&sprefix=AWS+clo%2Caps%2C327&sr=8-5)
+I Wrote And Published A Book Titled [AWS Cloud Computing](https://www.amazon.in/AWS-Cloud-Computing-Ranjan-Kumar-ebook/dp/B0CBTCKSKR/ref=sr_1_5?keywords=aws+cloud+computing&qid=1690436456&sprefix=AWS+clo%2Caps%2C327&sr=8-5) On Amazon
 
 --------
 
