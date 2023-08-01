@@ -30,22 +30,26 @@
 
 # Certifications
 
-- [(ISC)²](https://www.credly.com/badges/51593902-114b-450f-bcba-2d22921d5eb7)</br>
-- [CEH V12](https://certsgithub.s3.amazonaws.com/Achievment/CEH+V12.pdf)</br>
-- [CCNA](https://certsgithub.s3.amazonaws.com/Achievment/Cisco+CCNA+Security_Certificate+of+Achievement.pdf)</br>
-- [Dante](https://certsgithub.s3.amazonaws.com/Achievment/Dante-certificate.pdf)</br>
-- [eCPPTV2](https://certsgithub.s3.amazonaws.com/Achievment/eCPPTV2.pdf)</br>
-- [eJPT](https://certsgithub.s3.amazonaws.com/Achievment/eJPT.pdf)</br>
-- [Forage](https://certsgithub.s3.amazonaws.com/Achievment/Forage.pdf)</br>
-- [PenTesting](https://certsgithub.s3.amazonaws.com/Achievment/Pen+Testing_Certificate+of+Achievement.pdf)</br>
-- [Advent Of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UTNOERKM3F.png)</br>
-- [Advent Of Cyber 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RWPPM07YN3.png)</br>
-- [ECC-Evaluation-Certificate](https://certsgithub.s3.amazonaws.com/Achievment/ECC-Evaluation-Certificate.pdf)</br>
-- [Certified Cyber Warrior](https://certsgithub.s3.amazonaws.com/Achievment/CERTIFIED+CYBER+WARRIOR.pdf)</br>
-- [Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WYIRIJQMQB.png)</br>
-- [Responsible Red Teaming](https://certsgithub.s3.amazonaws.com/Achievment/certificate-of-completion-for-responsible-red-teaming.pdf)</br>
-- [Ethical Hacking Essentials](https://certsgithub.s3.amazonaws.com/Achievment/EHE.pdf)</br>
-- [Introduction To IT & Cybersecurity](https://certsgithub.s3.amazonaws.com/Achievment/cybrary-cert-introduction-to-it-and-cybersecurity.pdf)</br>
+| Certificates | 
+| - |
+| [(ISC)²](https://www.credly.com/badges/51593902-114b-450f-bcba-2d22921d5eb7) | 
+| [PEH](https://certsgithub.s3.amazonaws.com/Achievment/PEH.pdf) | 
+| [CCNA](https://certsgithub.s3.amazonaws.com/Achievment/Cisco+CCNA+Security_Certificate+of+Achievement.pdf) | 
+| [eJPT](https://certsgithub.s3.amazonaws.com/Achievment/eJPT.pdf) |
+| [CISCO](https://certsgithub.s3.amazonaws.com/Achievment/Introduction_to_Cybersecurity_Badge.pdf) | 
+| [Dante](https://certsgithub.s3.amazonaws.com/Achievment/Dante-certificate.pdf) |
+| [CEH V12](https://certsgithub.s3.amazonaws.com/Achievment/CEH+V12.pdf) |
+| [Forage](https://certsgithub.s3.amazonaws.com/Achievment/Forage.pdf) |
+| [eCPPTV2](https://certsgithub.s3.amazonaws.com/Achievment/eCPPTV2.pdf) |
+| [PenTesting](https://certsgithub.s3.amazonaws.com/Achievment/Pen+Testing_Certificate+of+Achievement.pdf) |
+| [Advent Of Cyber 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RWPPM07YN3.png) |
+| [Advent Of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UTNOERKM3F.png) |
+| [ECC-Evaluation-Certificate](https://certsgithub.s3.amazonaws.com/Achievment/ECC-Evaluation-Certificate.pdf) |
+| [Certified Cyber Warrior](https://certsgithub.s3.amazonaws.com/Achievment/CERTIFIED+CYBER+WARRIOR.pdf) |
+| [Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WYIRIJQMQB.png) |
+| [Responsible Red Teaming](https://certsgithub.s3.amazonaws.com/Achievment/certificate-of-completion-for-responsible-red-teaming.pdf) |
+| [Ethical Hacking Essentials](https://certsgithub.s3.amazonaws.com/Achievment/EHE.pdf) |
+| [Introduction To IT & Cybersecurity](https://certsgithub.s3.amazonaws.com/Achievment/cybrary-cert-introduction-to-it-and-cybersecurity.pdf) |
 
 --------
 
