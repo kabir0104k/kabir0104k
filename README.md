@@ -68,7 +68,7 @@ I Wrote And Published A Book [AWS Cloud Computing](https://www.amazon.in/AWS-Clo
 [![GitHub Streak](https://streak-stats.demolab.com?user=kabir0104k&theme=hacker&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
 
 <details>
-<summary>Stats</summary> 
+<summary>Click</summary> 
 </p>
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/kabir0104k/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/kabir0104k/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -80,8 +80,9 @@ I Wrote And Published A Book [AWS Cloud Computing](https://www.amazon.in/AWS-Clo
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kabir0104k&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/kabir0104k/github-widgetbox)
 
 
-
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kabir0704.png" alt="TryHackMe">
 
 ### Buy Me A Coffee 
 <a href="https://www.buymeacoffee.com/kabir0704" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
