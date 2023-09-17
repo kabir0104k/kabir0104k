@@ -84,9 +84,6 @@ I Wrote And Published A Book [AWS Cloud Computing](https://www.amazon.in/AWS-Clo
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
 
-<script src="https://tryhackme.com/badge/479793"></script>
-
-
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kabir0704.png" alt="TryHackMe">
