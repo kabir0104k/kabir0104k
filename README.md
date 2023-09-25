@@ -8,15 +8,15 @@
  
  
  
- ## 🤵‍ About Me 
+ ## 🤵‍ [About Me]
 
 
 
 
 
-> <sup> 𝗔𝘀 𝗮 𝗥𝗲𝗱 𝗧𝗲𝗮𝗺 𝗣𝗲𝗻𝘁𝗲𝘀𝘁𝗲𝗿 & 𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗲𝗿, 𝗜 𝗛𝗮𝘃𝗲 𝗮 𝗣𝗮𝘀𝘀𝗶𝗼𝗻 𝗳𝗼𝗿 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 𝗖𝗼𝗺𝗽𝗹𝗲𝘅 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝘀. 𝗪𝗶𝘁𝗵 𝗢𝘃𝗲𝗿 𝟯 𝗬𝗲𝗮𝗿𝘀 𝗼𝗳 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. 𝗜 𝗛𝗮𝘃𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 𝗮 𝗪𝗶𝗱𝗲
-> 𝗥𝗮𝗻𝗴𝗲 𝗼𝗳 𝗦𝗸𝗶𝗹𝗹𝘀. 𝗜 𝗔𝗺 𝗮 𝗛𝗶𝗴𝗵𝗹𝘆 𝗠𝗼𝘁𝗶𝘃𝗮𝘁𝗲𝗱 𝗣𝗲𝗿𝘀𝗼𝗻 𝗪𝗶𝘁𝗵 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳 𝗖𝗼𝗺𝗽𝗹𝗲𝘅 𝗦𝘆𝘀𝘁𝗲𝗺𝘀. 𝗜 𝗘𝗻𝗷𝗼𝘆 𝘁𝗵𝗲 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗼𝗳 𝗙𝗶𝗻𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗘𝘅𝗽𝗹𝗼𝗶𝘁𝗶𝗻𝗴 𝗙𝗹𝗮𝘄𝘀 & 𝗜 𝗔𝗹𝘄𝗮𝘆𝘀 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿
-> 𝗡𝗲𝘄 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 𝘁𝗼 𝗜𝗺𝗽𝗿𝗼𝘃𝗲 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗞𝗲𝗲𝗽 𝗨𝗽-𝗧𝗼-𝗗𝗮𝘁𝗲 𝗪𝗶𝘁𝗵 𝘁𝗵𝗲 𝗟𝗮𝘁𝗲𝘀𝘁 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆.
+> <sup> Experienced Red Teamer with 2 years of experience in web application and network penetration testing. Strong understanding of vulnerabilities and mitigation strategies through multiple certifications, Specifically focusing on cloud security. As a cybersecurity researcher, my goal is to stay current on cybersecurity trends and to learn continuously.
+
+
  
 
 - 👨‍💻 All Of My Projects Are Available At **[My Projects](https://github.com/kabir0104k?tab=repositories)**
@@ -61,6 +61,7 @@ I Wrote And Published A Book [AWS Cloud Computing](https://www.amazon.in/AWS-Clo
 --------
 
 # Skills
+[𝘄𝗵𝗼𝗮𝗺𝗶](https://flowcv.com/resume/2s9blkj3w8) </br>
 [TryHackMe](https://tryhackme.com/p/Kabir0704)</br>
 [HackTheBox](https://app.hackthebox.com/profile/overview/Kabir0704)
 
