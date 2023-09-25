@@ -3,7 +3,7 @@
 
 <h1 align="center"> RANJAN</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=Certified+Ethical+Hacker;Professional+Penetration+Tester;Red+Teaming;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=Certified+Ethical+Hacker;Professional+Penetration+Tester;Red+Teamer;)](https://git.io/typing-svg)
 
  
  
@@ -20,8 +20,8 @@
  
 
 - 👨‍💻 All Of My Projects Are Available At **[My Projects](https://github.com/kabir0104k?tab=repositories)**
-- ♕ I’m Currently Studying API Pentesting </br>
-- Talks About Vapt, AWSCloud, APITesting, RedTeaming, And CloudComputing
+- ♕ I’m Currently Studying API,Android And Cloud Pentesting </br>
+- Talks About VAPT, AWSCloud, APITesting, RedTeaming, And CloudComputing
 
 
 ## My Skills 🚀
