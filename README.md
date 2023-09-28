@@ -1,8 +1,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 <br>
 
-<h1 align="center"> <a href="https://www.fontspace.com/category/modern"><img src="https://see.fontimg.com/api/renderfont4/OVoWO/eyJyIjoiZnMiLCJoIjo0NCwidyI6MTUwMCwiZnMiOjI5LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzM1M0Q0QiIsInQiOjF9/UmFuamFuIEt1bWFy/aloevera.png" alt="Modern fonts"></a> </h1>
 
+
+<h1 align="center">Rαηյαη Kumαr</h1>
+   
 
 
 
