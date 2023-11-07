@@ -22,6 +22,8 @@
 - Talks About VAPT, AWSCloud, APITesting, RedTeaming, And CloudComputing
 
 
+<img src="https://slack-imgs.com/?c=1&amp;o1=gu&amp;url=https%3A%2F%2Femoji.slack-edge.com%2FTBMH8MT1N%2Fyogoh%2Faef8c67fc050a6f6.png" aria-label="yogoh emoji" alt=":yogoh:" data-stringify-type="emoji" data-stringify-emoji=":yogoh:">
+
 ## My Skills 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,linux,aws,azure,gcp,git,github,powershell,bash,postman,docker&perline=15)](https://skillicons.dev)
