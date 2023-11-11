@@ -70,9 +70,7 @@ I Wrote And Published A Book [AWS Cloud Computing](https://www.amazon.in/AWS-Clo
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kabir0104k&theme=hacker&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
 
-<details>
-<summary>Click</summary> 
-</p>
+
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/kabir0104k/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/kabir0104k/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/kabir0104k/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/kabir0104k/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
@@ -95,6 +93,8 @@ I Wrote And Published A Book [AWS Cloud Computing](https://www.amazon.in/AWS-Clo
 
 ### Buy Me A Coffee 
 <a href="https://www.buymeacoffee.com/kabir0704" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+[ᶜʸᵇᵉʳ ᵀʰʳᵉᵃᵗ ᴹᵃᵖ](https://cybermap.kaspersky.com/en/widget/dynamic/dark)
 
 <p align="left">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
