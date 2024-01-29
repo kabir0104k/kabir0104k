@@ -5,21 +5,21 @@
 
 <h1 align="center">Rαηյαη Kumαr</h1>
    
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=Certified+Ethical+Hacker;Certified+Penetration+Tester;Red+Teamer;)](https://git.io/typing-svg)
 
+
 #
-
 > <sup> Experienced Red Teamer with 2 years of experience in web application and network penetration testing. Strong understanding of vulnerabilities and mitigation strategies through multiple certifications, Specifically focusing on cloud security. As a cybersecurity researcher, my goal is to stay current on cybersecurity trends and to learn continuously.
-
 
  
 
 - 👨‍💻 All Of My Projects Are Available At **[My Projects](https://github.com/kabir0104k?tab=repositories)**
 - ♕ I’m Currently Studying API,Android And Cloud Pentesting </br>
 - Talks About VAPT, AWSCloud, APITesting, RedTeaming, And CloudComputing
+
 
 
 <img src="https://slack-imgs.com/?c=1&amp;o1=gu&amp;url=https%3A%2F%2Femoji.slack-edge.com%2FTBMH8MT1N%2Fyogoh%2Faef8c67fc050a6f6.png" aria-label="yogoh emoji" alt=":yogoh:" data-stringify-type="emoji" data-stringify-emoji=":yogoh:">
