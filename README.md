@@ -29,29 +29,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,linux,aws,azure,gcp,git,github,powershell,bash,postman,docker&perline=15)](https://skillicons.dev)
 
 
-# Certifications
-
-| Certificates | Organisation
-| - | - |
-| [(ISC)²](https://www.credly.com/badges/51593902-114b-450f-bcba-2d22921d5eb7) | [ISC2](https://www.isc2.org/)
-| [PEH](https://certsgithub.s3.amazonaws.com/Achievment/PEH.pdf) | [TCM](https://academy.tcm-sec.com/)
-| [CCNA](https://certsgithub.s3.amazonaws.com/Achievment/Cisco+CCNA+Security_Certificate+of+Achievement.pdf) | [Charles Sturt University](https://www.csu.edu.au/)
-| [eJPT](https://certsgithub.s3.amazonaws.com/Achievment/eJPT.pdf) | [INE](https://security.ine.com/)
-| [CISCO](https://certsgithub.s3.amazonaws.com/Achievment/Introduction_to_Cybersecurity_Badge.pdf) | [CISCO](https://www.cisco.com/site/in/en/index.html)
-| [Dante](https://certsgithub.s3.amazonaws.com/Achievment/Dante-certificate.pdf) | [HackTheBox](app.hackthebox.com/)
-| [CEH V12](https://certsgithub.s3.amazonaws.com/Achievment/CEH+V12.pdf) | [EC-Council](https://www.eccouncil.org/)
-| [Forage](https://certsgithub.s3.amazonaws.com/Achievment/Forage.pdf) | [Forage](https://www.theforage.com/)
-| [eCPPTV2](https://certsgithub.s3.amazonaws.com/Achievment/eCPPTV2.pdf) | [INE](https://security.ine.com/)
-| [PenTesting](https://certsgithub.s3.amazonaws.com/Achievment/Pen+Testing_Certificate+of+Achievement.pdf) | [Charles Sturt University](https://www.csu.edu.au/)
-| [Advent Of Cyber 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RWPPM07YN3.png) | [TryHackMe](https://tryhackme.com/)
-| [Advent Of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UTNOERKM3F.png) | [TryHackMe](https://tryhackme.com/)
-| [ECC-Evaluation-Certificate](https://certsgithub.s3.amazonaws.com/Achievment/ECC-Evaluation-Certificate.pdf) | [EC-Council](https://www.eccouncil.org/)
-| [Certified Cyber Warrior](https://certsgithub.s3.amazonaws.com/Achievment/CERTIFIED+CYBER+WARRIOR.pdf) | [HackingFlix](https://www.hackingflix.com/)
-| [Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WYIRIJQMQB.png) |  [TryHackMe](https://tryhackme.com/)
-| [Responsible Red Teaming](https://certsgithub.s3.amazonaws.com/Achievment/certificate-of-completion-for-responsible-red-teaming.pdf) | [The Taggart Institute](https://taggartinstitute.org/p/responsible-red-teaming)
-| [Ethical Hacking Essentials](https://certsgithub.s3.amazonaws.com/Achievment/EHE.pdf) | [EC-Council](https://codered.eccouncil.org/your-portal/home)
-| [Introduction To IT & Cybersecurity](https://certsgithub.s3.amazonaws.com/Achievment/cybrary-cert-introduction-to-it-and-cybersecurity.pdf) | [Cybrary](https://www.cybrary.it/)
-| [Security Enginner Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-INNTUVJS9W.png) | [TryHackMe](https://tryhackme.com/)
 
 --------
 
